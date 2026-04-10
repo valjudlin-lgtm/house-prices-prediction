@@ -42,3 +42,5 @@ Classement : **Top 3% sur Kaggle**
 - Feature engineering
 - Model tuning
 - Analyse de données
+
+Ce projet m’a permis de renforcer mes compétences en modélisation prédictive et en optimisation de modèles dans un contexte réel.
