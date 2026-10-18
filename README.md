@@ -27,7 +27,7 @@ Variables : surface, localisation, qualité, année de construction, etc.
 - Comparaison des performances
 
 ## Résultats
-- Score Kaggle (RMSE sur le log du prix) : **X.XXXX** – top 3 % du classement
+- Score Kaggle (RMSE sur le log du prix) :0.11976 – top 3 % du classement
 
 ## Exécution
 1. Télécharger les données sur [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
