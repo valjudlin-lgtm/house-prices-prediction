@@ -26,9 +26,13 @@ Variables : surface, localisation, qualité, année de construction, etc.
 - Validation croisée
 - Comparaison des performances
 
-## 🏆 Résultat
+## Résultats
+- Score Kaggle (RMSE sur le log du prix) : **X.XXXX** – top 3 % du classement
 
-Classement : **Top 3% sur Kaggle**
+## Exécution
+1. Télécharger les données sur [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+2. Installer les dépendances : `pip install -r requirements.txt`
+3. Lancer le notebook `prediction-using-lightgbm-xgboost-catboost.ipynb`
 
 ## 📎 Liens
 
